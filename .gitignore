@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints
+.env
+.venv/
+env/
+venv/
+*.log
+.DS_Store
+.idea/
+.vscode/
+pipeline_builder.py
+run_notebook.py
+capture_previews.py
+generate_dashboard_visuals.py
